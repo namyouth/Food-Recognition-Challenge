@@ -1,5 +1,5 @@
 # Food Recognition Challenge
-🍕🍎 Food Detection using Mask R-CNN
+Food Detection using Mask R-CNN
 
 
 ## Requirements
